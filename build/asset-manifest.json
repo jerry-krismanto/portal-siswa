@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3e54343.css",
+    "main.js": "/static/js/main.bbd1fab4.js",
+    "static/media/jarkom.jpeg": "/static/media/jarkom.6c9e33112f7e5d3f563f.jpeg",
+    "index.html": "/index.html",
+    "main.b3e54343.css.map": "/static/css/main.b3e54343.css.map",
+    "main.bbd1fab4.js.map": "/static/js/main.bbd1fab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3e54343.css",
+    "static/js/main.bbd1fab4.js"
+  ]
+}

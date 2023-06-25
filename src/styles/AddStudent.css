@@ -1,0 +1,44 @@
+.add-student-container {
+  margin-top: 97px;
+}
+
+.add-student-container > h1 {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.add-flex-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+  gap: 12px;
+}
+
+/* .add-flex-container > input,
+select,
+textarea {
+  width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #0f0f0f;
+  border-radius: 5px;
+  font-size: 16px;
+} */
+
+.add-flex-container > .add-btn {
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(86, 86, 255);
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
