@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Portal - Using ChakraUI and Deploying in Firebase
 
 ## Final Project
@@ -59,3 +60,7 @@ Tambahkan halaman footer di semua halaman mulai dari `Home`, `Student`, `AddStud
 -   Pada `Task.js` masukan url firebase, nama serta CAMP ID kalian dalam bentuk `string`. Pastikan nama serta CAMP ID yang kalian masukan **sesuai** dengan yang kalian simpan pada `Footer.jsx`.
 
 -   Lakukan deployment ke Firebase
+=======
+# portal-siswa
+A student portal built with react, data are stored in a json server
+>>>>>>> aa4e3cfee03fbe3846c765d99a82afef967c2eae
